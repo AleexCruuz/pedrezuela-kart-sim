@@ -1,0 +1,16 @@
+Fuente oficial de F1 (Formula1 Display)
+=======================================
+
+Formula1 Display es una tipografía propietaria de Formula One Licensing B.V.
+No se incluye en este proyecto. Si tienes licencia, la interfaz la usa sola:
+
+  A) Instalada en el sistema (doble clic en cada .otf -> Instalar), o
+  B) Copiando aquí los archivos con estos nombres exactos:
+
+     Formula1-Display-Regular.otf
+     Formula1-Display-Bold.otf
+     Formula1-Display-Black.otf
+     Formula1-Display-Wide.otf
+
+Sin estos archivos la interfaz usa Saira (Google Fonts) como sustituta.
+No subas estos archivos a un repositorio ni web públicos.
